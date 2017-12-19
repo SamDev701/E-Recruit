@@ -2,7 +2,6 @@
 -- version 3.5.6
 -- http://www.phpmyadmin.net
 --
--- Máquina: 186.202.152.42:3306
 -- Data de Criação: 19-Dez-2017 às 11:29
 -- Versão do servidor: 5.1.54-rel12.6-log
 -- versão do PHP: 5.3.10
